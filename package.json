@@ -2,7 +2,7 @@
   "name": "kedro-viz-layout",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tynandebold.com",
+  "homepage": "https://tynandebold.github.io/kedro-viz-layout",
   "dependencies": {
     "@lume/kiwi": "^0.1.0",
     "@quantumblack/kedro-viz": "^5.1.1",
